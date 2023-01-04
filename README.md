@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Abdur Rahaman  
 - 👀 I’m interested in PHP programming & Laravel Framework
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on any project where Laravel or ReactJs framework is used
+- 💞️ I’m looking to collaborate on any project where Laravel framework or ReactJs library or Angular framework is used
 - 📫 How to reach me abdur.rahaman.ewu082@gmail.com
 
 <!---
