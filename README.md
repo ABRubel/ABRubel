@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Abdur Rahaman  
 - 👀 I’m interested in Programming and Machine Learning 
-- 🌱 I’m currently learning Next.JS
+- 🌱 I’m currently learning Next.JS and Machine Learning 
 - 💞️ I’m looking to collaborate on any project where Laravel framework or Next.js or Node.js is used
 - 📫 How to reach me abdur.rahaman.ewu082@gmail.com
 
