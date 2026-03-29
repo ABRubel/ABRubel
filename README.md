@@ -15,4 +15,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ABRubel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 Key Focus Areas:
+* 🏢 Designing multi-tenant SaaS platforms at scale  
+* ⚡ Optimizing high-throughput systems (100K+ traffic scenarios)  
+* 🔄 Migrating monoliths to microservices architecture  
+* 📊 Database performance tuning (indexing, query planning, caching strategies)  
+* 🛠️ Building resilient systems with queues, retries, and fault tolerance  
+
+## 🎯 Current Goals:
+* 🚀 Transition into Lead/Staff Engineer role  
+* 🧠 Deepen expertise in distributed systems & system design  
+* ☁️ Advance in AWS architecture & scalability patterns  
+* 👥 Strengthen technical leadership and mentoring  
